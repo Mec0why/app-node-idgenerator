@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const genders = ['M', 'Male', 'F', 'Female'];
+const genders = ['M', 'F'];
 
 const maleNames = [
   'Mike',
