@@ -44,7 +44,7 @@ for (let i = 0; i < 20; i++) {
 
   let name = '';
 
-  if (randGender === 'M' || randGender === 'Male') {
+  if (randGender === 'M') {
     name = randChoice(maleNames);
   } else {
     name = randChoice(femaleNames);
